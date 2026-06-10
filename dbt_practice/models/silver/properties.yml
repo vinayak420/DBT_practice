@@ -1,0 +1,13 @@
+models:
+    - name: sales_info
+      columns:
+        - name: sum_amt
+          data_tests:
+            - not_null
+        - name: gender
+          data_tests: 
+            - accepted_values:
+                arguments:
+                    values: ['F', 'M', 'Other']
+
+     
