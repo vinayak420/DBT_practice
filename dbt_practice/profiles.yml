@@ -2,7 +2,7 @@ dbt_practice:
   outputs:
     dev:
       catalog: dbt_tutorial_dev
-      host: dbc-6b392bc0-e587.cloud.databricks.com
+      host: 
       http_path: 
       schema: source
       threads: 1

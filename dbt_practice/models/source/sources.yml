@@ -9,5 +9,8 @@ sources:
       - name: dim_store
       - name: dim_product
       - name: dim_customer
+<<<<<<< HEAD
       - name: items
+=======
+>>>>>>> 3d4f83d (brz layer)
 
